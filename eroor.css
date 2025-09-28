@@ -1,0 +1,16 @@
+#container{
+  margin: auto;
+  text-align: center;
+}
+
+#text{
+  font-family: MS Gothic;
+  font-size: xx-large;
+  color: #094ee5;
+}
+a{
+  color: #370aff;
+}
+html{
+  background-image: url(GIFs/bg.gif)
+}
